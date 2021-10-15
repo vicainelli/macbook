@@ -1,5 +1,11 @@
 # New Macbook Set Up
 
+## Apps
+
+### Code / IDE
+
+- [ ] VSCode
+- [ ] HyperJS
 
 ## Tips
 
